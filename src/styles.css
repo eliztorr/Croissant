@@ -1,0 +1,28 @@
+.navbar-brand {
+  padding-left: 20px;
+}
+body {
+  padding-top: 100px;
+  background-color: #2b242b !important;
+  color: white !important;
+}
+img {
+  max-width: 800px;
+  display: block;
+
+  margin-left: auto;
+
+  margin-right: auto;
+}
+
+.info-links {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+}
+.page-link {
+  text-decoration: none;
+}
+a:hover {
+  text-decoration: underline;
+}
